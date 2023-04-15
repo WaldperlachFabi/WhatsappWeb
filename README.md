@@ -1,6 +1,8 @@
 # WhatsappWeb
 Adds an App to the Homescreen with Whatsapp Web, allowing you to get notifications for Whatsapp on iPad!
 
+You need iPadOS 16.4 or newer!
+
 How to install:
 
 1. Open this page on your iPad!
