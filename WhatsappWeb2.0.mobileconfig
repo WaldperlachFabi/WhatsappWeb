@@ -310,7 +310,7 @@
 			<key>IsRemovable</key>
 			<false/>
 			<key>Label</key>
-			<string>Whatapp Web</string>
+			<string>Whatsapp Web</string>
 			<key>PayloadDescription</key>
 			<string>Konfiguriert Einstellungen für einen Webclip</string>
 			<key>PayloadDisplayName</key>
